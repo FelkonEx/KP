@@ -1,0 +1,12 @@
+.App {
+  text-align: center;
+}
+
+.swatch-container {
+  display: flex;
+  justify-content: center;
+}
+
+.button {
+  margin-bottom: 1rem;
+}
